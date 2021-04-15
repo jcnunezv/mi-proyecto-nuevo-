@@ -1,0 +1,77 @@
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.exe
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.deps.json
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.runtimeconfig.json
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.runtimeconfig.dev.json
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\ref\PrimerFormulario.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.pdb
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.Form1.resources
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.AssemblyInfo.cs
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\ref\PrimerFormulario.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.pdb
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.genruntimeconfig.cache
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csproj.CopyComplete
+C:\Users\anton\source\repos\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.exe
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.deps.json
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.runtimeconfig.json
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.runtimeconfig.dev.json
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\ref\PrimerFormulario.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\PrimerFormulario.pdb
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\MySql.Data.EntityFrameworkCore.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\Renci.SshNet.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\bin\Debug\net5.0-windows\SshNet.Security.Cryptography.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csprojAssemblyReference.cache
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.Form1.resources
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csproj.GenerateResource.cache
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.AssemblyInfoInputs.cache
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.AssemblyInfo.cs
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csproj.CoreCompileInputs.cache
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.csproj.CopyComplete
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\ref\PrimerFormulario.dll
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.pdb
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.genruntimeconfig.cache
+C:\Users\jcnun\Documents\Visual Studio 2019\PrimerFormulario\PrimerFormulario\obj\Debug\net5.0-windows\PrimerFormulario.Form2.resources
